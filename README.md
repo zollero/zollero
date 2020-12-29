@@ -1,9 +1,9 @@
 ## Hi there 👋 &nbsp;&nbsp;&nbsp;&nbsp; ![visitors](https://visitor-badge.laobi.icu/badge?page_id=github/zollero)
 
-Welcome to my Github Page. I'm Zollero, Fullstack developer from Hangzhou.
+Welcome to my Github Page. I'm Zollero, living in Hangzhou.
 
 ![West Lake](https://view.didistatic.com/static/dcms/olv82rdkj9igprf_5921x2319_compress.jpeg)
-<p align="center">West Lake Of Hangzhou</>
+<p align="center"><i>West Lake Of Hangzhou</i></>
 
 <!--
 **zollero/zollero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
