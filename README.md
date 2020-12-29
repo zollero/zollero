@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+<p>Welcome to my Github Page. I'm Zollero, Fullstack developer from Hangzhou.</p>
+
 <div>
-  Welcome to my Github Page. I'm Zollero, Fullstack developer from Hangzhou.
+  <img src="https://view.didistatic.com/static/dcms/olv82rdkj9igprf_5921x2319_compress.jpeg" alt="West Lake" />
+  <p style="font-size: 14px;color: #ccc;text-align: center;">West Lake Of Hangzhou</p>
 </div>
 
 <!--
