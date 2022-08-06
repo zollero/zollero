@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 ## Github Stats
 
 ![Zollero's github stats](https://github-readme-stats.vercel.app/api?username=zollero&show_icons=true)
+-->
